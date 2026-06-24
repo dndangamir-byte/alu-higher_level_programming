@@ -2,4 +2,4 @@
 str1 = "Welcome to"
 str2 = "School!"
 
-print("{} Holberton {}".format(str1, str2))
+print(str1 + " Holberton " + str2)
